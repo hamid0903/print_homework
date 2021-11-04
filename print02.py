@@ -1,1 +1,1 @@
-# print 'Hellow World' to the terminal
+# 'Hello' va 'World' alohida alohida chop eting.
